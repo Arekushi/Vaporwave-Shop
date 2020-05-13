@@ -1,8 +1,7 @@
 # Vaporwave Shop
-  Simple example of login using SQLite.
+  Simple example of login using SQLite in Android Studio (Kotlin).
 
 ## Splash Screen
-
 <img src="https://i.imgur.com/8LKUzkK.png" height="504px" width="252px">
 
 ## Login Screen
