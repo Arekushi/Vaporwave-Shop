@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Vaporwave Shop</string>
+
+    <!-- SharedPreferences -->
+    <string name="sharedPreferencesName">MySharedPreferences</string>
+
+    <!-- Booleans -->
+    <string name="logged">isLogged</string>
+
+    <!-- Strings -->
+    <string name="email">emailKey</string>
+
+    <!-- Login Activity -->
+    <string name="txvLogin">Login</string>
+    <string name="edtEmail">Email</string>
+    <string name="edtSenha">Senha</string>
+    <string name="txvRegister">Não possui conta? <b><u>Cadastrar-se</u></b></string>
+    <string name="btnLogin">Logar-se</string>
+    <string name="sucessLogin">Login realizado com sucesso</string>
+    <string name="failedLogin">Login falhou, tente novamente</string>
+
+    <!-- Register Activity -->
+    <string name="txvRegister_activity">Cadastro</string>
+    <string name="btnRegister">Cadastrar-se</string>
+    <string name="toastRegister">Preencha todos os campos</string>
+    <string name="sucessRegister">Cadastro realizado com sucesso</string>
+
+    <!-- Main Activity -->
+    <string name="textShow">O usuário %1$s logou com sucesso</string>
+    <string name="btnLogout">Sair</string>
+    <string name="logout">Logout realizado com sucesso</string>
+
+</resources>
